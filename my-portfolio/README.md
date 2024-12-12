@@ -1,4 +1,12 @@
-# React + Vite
+# React Portfolio
+Using React skills to create web developer single-page application portfolio.
+Page contain a header, a section for content, and a footer.
+Page contain About Me, Portfolio, Contact, and Resume sections.
+
+# Git Hub
+https://github.com/roberto4tisantos/UofToronto_12React.git
+
+# React + Vite Technologies
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
