@@ -1,10 +1,9 @@
 /* eslint-disable react/jsx-no-undef */
 // eslint-disable-next-line no-unused-vars
 import React from 'react';
-// import Project1 from './Project1'; 
-// import Project2 from './Project2';
-import './Portfolio.css'
+//import './Portfolio.css'
 
+//Invoke Portfolio 
 const Portfolio = () => {
   return (
     <section id="portfolio">

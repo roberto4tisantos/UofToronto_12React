@@ -3,6 +3,7 @@
 import React, { useState } from 'react';
 import './Resume.css'
 
+//Invoke Resume
 const Resume = () => {
   return (
     <section id="resume">
@@ -10,7 +11,7 @@ const Resume = () => {
       <a href="/path-to-your-resume.pdf" download>Download Resume</a>
       <ul>
         <li>JavaScript, React, Node.js, HTML/CSS</li>
-        <li>Git, Webpack, RESTful APIs</li>
+        <li>Git Hub, RESTful APIs</li>
         <li>Problem-solving and debugging skills</li>
         {/* Add more skills */}
       </ul>

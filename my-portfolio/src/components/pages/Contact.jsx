@@ -3,6 +3,7 @@
 import React, { useState } from 'react';
 import './Contact.css'
 
+//Invoke Contact
 const Contact = () => {
   const [formData, setFormData] = useState({ name: '', email: '', message: '' });
   const [errors, setErrors] = useState({});
