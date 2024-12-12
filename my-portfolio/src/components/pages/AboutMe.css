@@ -1,0 +1,76 @@
+/* Reset default margin and padding for all elements */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Arial', sans-serif;
+}
+
+/* Styling for About Me section */
+#about-me {
+  background-color: #f7f9fc;
+  padding: 40px 20px;
+  max-width: 1000px;
+  margin: 50px auto;
+  border-radius: 12px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  transition: all 0.3s ease;
+}
+
+#about-me:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+}
+
+/* Heading styling */
+#about-me h2 {
+  font-size: 2.5rem;
+  color: #2b2d42;
+  margin-bottom: 20px;
+  font-weight: 600;
+}
+
+/* Image styling */
+#about-me img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 5px solid #ffffff;
+  margin: 20px 0;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Paragraph styling */
+#about-me p {
+  font-size: 1.1rem;
+  color: #4e5d6b;
+  line-height: 1.6;
+  margin-top: 20px;
+  font-weight: 400;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Media Query for smaller screens */
+@media (max-width: 768px) {
+  #about-me {
+    padding: 30px 15px;
+    margin: 20px auto;
+  }
+
+  #about-me h2 {
+    font-size: 2rem;
+  }
+
+  #about-me img {
+    width: 150px;
+    height: 150px;
+  }
+
+  #about-me p {
+    font-size: 1rem;
+    margin-top: 15px;
+  }
+}

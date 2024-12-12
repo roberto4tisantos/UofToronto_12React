@@ -1,0 +1,95 @@
+/* General Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Arial', sans-serif;
+}
+
+/* Resume Section */
+#resume {
+  background-color: #ffffff;
+  padding: 40px;
+  margin: 50px auto;
+  max-width: 900px;
+  border-radius: 12px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  transition: all 0.3s ease;
+}
+
+#resume:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+}
+
+/* Heading */
+#resume h2 {
+  font-size: 2.5rem;
+  color: #2b2d42;
+  margin-bottom: 20px;
+  font-weight: 600;
+}
+
+/* Download Button */
+#resume a {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 30px;
+  background-color: #2b2d42;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 8px;
+  font-size: 1.1rem;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  border: 2px solid #2b2d42;
+}
+
+#resume a:hover {
+  background-color: #ffffff;
+  color: #2b2d42;
+  border-color: #2b2d42;
+  transform: scale(1.05);
+}
+
+/* Skills List */
+#resume ul {
+  list-style-type: none;
+  margin-top: 30px;
+}
+
+#resume ul li {
+  font-size: 1.2rem;
+  color: #4e5d6b;
+  line-height: 1.6;
+  margin-bottom: 15px;
+  font-weight: 400;
+  transition: all 0.3s ease;
+}
+
+#resume ul li:hover {
+  color: #2b2d42;
+  transform: translateX(10px);
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+  #resume {
+    padding: 30px 15px;
+    margin: 20px auto;
+  }
+
+  #resume h2 {
+    font-size: 2rem;
+  }
+
+  #resume a {
+    padding: 10px 25px;
+    font-size: 1rem;
+  }
+
+  #resume ul li {
+    font-size: 1rem;
+  }
+}
