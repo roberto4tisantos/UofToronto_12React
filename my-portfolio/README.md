@@ -17,6 +17,8 @@ Page contain About Me, Portfolio, Contact, and Resume sections.
 # Resume
 <img width="733" alt="image" src="https://github.com/user-attachments/assets/66d772da-541d-4a07-a8dd-ad6824efe0f0" />
 
+# NETLIFY
+<img width="658" alt="image" src="https://github.com/user-attachments/assets/97200a7f-4afa-4c61-8038-536f9b63f25d" />
 
 # Git Hub
 [https://github.com/roberto4tisantos/UofToronto_12React.git](https://github.com/roberto4tisantos/UofToronto_12React/tree/EBAC-Python-FORTIS/my-portfolio)
