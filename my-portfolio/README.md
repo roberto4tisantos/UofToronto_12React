@@ -1,5 +1,5 @@
-# React Portfolio
-Using React skills to create web developer single-page application portfolio.
+# Portfolio
+Using React technology skills to create web developer single-page application portfolio.
 Page contain a header, a section for content, and a footer.
 Page contain About Me, Portfolio, Contact, and Resume sections.
 
