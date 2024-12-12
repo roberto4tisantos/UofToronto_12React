@@ -18,6 +18,7 @@ Page contain About Me, Portfolio, Contact, and Resume sections.
 <img width="733" alt="image" src="https://github.com/user-attachments/assets/66d772da-541d-4a07-a8dd-ad6824efe0f0" />
 
 # NETLIFY
+<img width="866" alt="image" src="https://github.com/user-attachments/assets/2ab26199-ba42-4dcc-a8bc-0f987614fdd8" />
 <img width="658" alt="image" src="https://github.com/user-attachments/assets/97200a7f-4afa-4c61-8038-536f9b63f25d" />
 
 # Git Hub
