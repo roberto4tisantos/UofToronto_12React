@@ -3,6 +3,9 @@ Using React technology skills to create web developer single-page application po
 Page contain a header, a section for content, and a footer.
 Page contain About Me, Portfolio, Contact, and Resume sections.
 
+<img width="440" alt="image" src="https://github.com/user-attachments/assets/b3f94cda-3313-4e53-b169-87e15a639402" />
+
+
 # Git Hub
 [https://github.com/roberto4tisantos/UofToronto_12React.git](https://github.com/roberto4tisantos/UofToronto_12React/tree/EBAC-Python-FORTIS/my-portfolio)
 
