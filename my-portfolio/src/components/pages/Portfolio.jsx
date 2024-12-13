@@ -6,7 +6,7 @@ import './Portfolio.css'; // Ensure the CSS file is imported
 //Invoke Portfolio 
 const Portfolio = () => {
   return (
-    <section id="Portfolio">
+    <section id="portfolio">
       <h2>Portfolio</h2>
       <p>Are you smarter than a fifth grader?</p>       
       <img src="/path-to-your-photo.jpg" alt="UofT" />

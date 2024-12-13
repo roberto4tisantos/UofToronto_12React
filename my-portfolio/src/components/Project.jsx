@@ -5,7 +5,7 @@ import AboutMe from './pages/AboutMe';
 import Resume from './pages/Resume';
 import Contact from './pages/Contact';
 
-export default function PortfolioF() {
+export default function Project() {
   const [currentPage, setCurrentPage] = useState('Home');
 
   //This method is checking to see what the value of `currentPage` is. 
