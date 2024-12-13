@@ -7,6 +7,9 @@ Page contain About Me, Portfolio, Contact, and Resume sections.
 <img width="440" alt="image" src="https://github.com/user-attachments/assets/b3f94cda-3313-4e53-b169-87e15a639402" />
 
 # Portfolio
+<img width="730" alt="image" src="https://github.com/user-attachments/assets/e03adc34-441c-4433-9cbd-5f0c51526e8c" />
+<img width="652" alt="image" src="https://github.com/user-attachments/assets/e0a304fe-8a00-4999-9bc6-dba7569752de" />
+<img width="692" alt="image" src="https://github.com/user-attachments/assets/c45b4ca8-4e00-48a1-837e-c0c5a224235b" />
 
 # Contact
 <img width="773" alt="image" src="https://github.com/user-attachments/assets/009c9031-a764-4a6e-8c89-d4bd36ab4499" />
