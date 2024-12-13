@@ -20,12 +20,12 @@ Page contain About Me, Portfolio, Contact, and Resume sections.
 # Resume
 <img width="733" alt="image" src="https://github.com/user-attachments/assets/66d772da-541d-4a07-a8dd-ad6824efe0f0" />
 
-# NETLIFY
+# NETLIFY (https://fortechit-webapp-devops.com/)
 <img width="866" alt="image" src="https://github.com/user-attachments/assets/2ab26199-ba42-4dcc-a8bc-0f987614fdd8" />
 <img width="658" alt="image" src="https://github.com/user-attachments/assets/97200a7f-4afa-4c61-8038-536f9b63f25d" />
 
 # <Netlify => deploy issue>
-I have tried to deploy regarding Netlify's instructions (file package.json wihin "type": "module") but it displays the following issue. 
+I have tried to fix webpage issue deploying regarding Netlify's instructions (file package.json wihin "type": "module") but it displays the following issue. 
 https://docs.netlify.com/site-deploys/fix-a-failed-deploy/?utm_source=diagnosis-button-modal
 <img width="272" alt="image" src="https://github.com/user-attachments/assets/fae232de-eeae-4d19-89ce-bfe7d2de6730" />
 ![image](https://github.com/user-attachments/assets/891d1af7-21ff-48de-ac5f-69825b1f500e)
