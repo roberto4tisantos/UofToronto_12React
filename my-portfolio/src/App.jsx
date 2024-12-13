@@ -3,7 +3,7 @@
 // import viteLogo from '/vite.svg'
 //import Portfolio from "./components/Portfolio";
 import './App.css'
-import PortfolioF from './components/Portfolio';
+import PortfolioF from './components/Project';
 
 //Invoke App => PortfolioF
 const App = () => <PortfolioF/>;
